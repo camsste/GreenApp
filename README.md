@@ -9,16 +9,16 @@ A API utilizada neste projeto é fornecida pelo portal de dados abertos da Prefe
 
 Esta API fornece dados de infrações registradas na cidade do Recife. Abaixo estão os principais campos que são retornados pela API:
 
-- cnpj: O CNPJ da entidade registrada.
-- data: A data em que a vistoria foi realizada.
-- endereco: O endereço onde a infração foi registrada.
-- id: Um identificador único para o registro.
-- infracoes: As infrações cometidas, conforme o artigo da legislação.
-- latitude: A latitude da localização da infração.
-- longitude: A longitude da localização da infração.
-- nomeFantasia: O nome fantasia da entidade registrada.
-- numeroAuto: O número do auto de infração.
-- razaoSocial: A razão social da entidade registrada.
+- **cnpj**: O CNPJ da entidade registrada.
+- **data**: A data em que a vistoria foi realizada.
+- **endereco**: O endereço onde a infração foi registrada.
+- **id**: Um identificador único para o registro.
+- **infracoes**: As infrações cometidas, conforme o artigo da legislação.
+- **latitude**: A latitude da localização da infração.
+- **longitude**: A longitude da localização da infração.
+- **nomeFantasia**: O nome fantasia da entidade registrada.
+- **numeroAuto**: O número do auto de infração.
+- **razaoSocial**: A razão social da entidade registrada.
 
 # Funcionalidades
 - Listar locais com infrações ambientais.
