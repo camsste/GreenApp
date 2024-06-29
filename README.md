@@ -34,3 +34,19 @@ Esta API fornece dados de infrações registradas na cidade do Recife. Abaixo es
 - Node.js
 - Expo CLI
 - Conta no Expo
+
+# Instalação
+1. Clone o repositório:
+```
+git clone https://github.com/seu-usuario/infrações-ambientais-recife.git
+cd infrações-ambientais-recife
+```
+2. Instale as dependências:
+```
+npm install
+```
+
+4. Inicie o projeto com Expo:
+```
+npx expo start
+```
