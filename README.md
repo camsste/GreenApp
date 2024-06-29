@@ -59,7 +59,32 @@ npx expo start
 
 # Estrutura do Projeto
 ```
-ainda nao fiz
+greenapp/
+├── assets/                                           # Diretório para imagens, fontes e outros recursos estáticos
+│   ├── images/                                       # Subdiretório para imagens
+│   │   ├── danger.png                                # Exemplo de imagem
+│   │   ├── imageMap.png                                # Exemplo de imagem
+│   │   └── splash.png                                 # Exemplo de imagem
+│   └── fonts/                                        # Subdiretório para fontes
+│       └── roboto-font.ttf                           # Exemplo de fonte
+├── components/                                         # Diretório para componentes React
+│   ├── layout/                                        # Diretório para componentes React de layout
+│   │   └── sheet.tsx                                  # Componente React de layout para as telas do aplicativo
+│   └── outrosComponentes.tsx                             # Outros componentes React reutilizáveis do projeto
+├── constants/                                          # Diretório para constantes do aplicativo
+│   └── Colors.ts                                       # Arquivo de constantes para cores do aplicativo
+├── screens/                                            # Diretório para telas React do aplicativo
+│   ├── HomeScreen.tsx                                # Tela inicial do aplicativo
+│   ├── DetailsScreen.tsx                              # Tela de detalhes do aplicativo
+│   └── outrosArquivosDeTela.tsx                          # Outros arquivos de telas React do aplicativo
+├── Service/                                            # Diretório para classes de serviço do projeto
+│   └── Endpoints.ts                                   # Classe de serviço para endpoints da API
+├── App.js                                             # Arquivo principal do aplicativo React
+├── app.json                                             # Arquivo de configuração do Expo
+├── babel.config.js                                       # Arquivo de configuração do Babel
+├── package.json                                         # Arquivo de metadados do projeto
+└── tsconfig.json                                        # Arquivo de configuração do TypeScript
+
 ```
 
 # Licença
