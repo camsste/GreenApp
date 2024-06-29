@@ -88,4 +88,4 @@ greenapp/
 ```
 
 # Licença
-Feito com amor por Camile Stefany.
+Feito por Camile Stefany.
