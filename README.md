@@ -19,3 +19,18 @@ Esta API fornece dados de infrações registradas na cidade do Recife. Abaixo es
 - nomeFantasia: O nome fantasia da entidade registrada.
 - numeroAuto: O número do auto de infração.
 - razaoSocial: A razão social da entidade registrada.
+
+# Funcionalidades
+- Listar locais com infrações ambientais.
+- Exibir detalhes sobre as infrações.
+- Mostrar a localização atual do usuário em coordenadas geográficas.
+
+# Tecnologias Utilizadas
+- React Native
+- Expo
+- API do Dados Recife
+  
+# Requisitos
+- Node.js
+- Expo CLI
+- Conta no Expo
