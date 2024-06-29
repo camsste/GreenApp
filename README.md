@@ -6,6 +6,7 @@ Este aplicativo exibe uma lista de locais que sofreram infrações ambientais na
 
 # API UTILIZADA
 A API utilizada neste projeto é fornecida pelo portal de dados abertos da Prefeitura do Recife. [A URL da API é]([http://dados.recife.pe.gov.br/api/3/action/datastore_search?resource_id=41dda42a-2a09-47ed-8667-123b024e1546])
+
 Esta API fornece dados de infrações registradas na cidade do Recife. Abaixo estão os principais campos que são retornados pela API:
 
 cnpj: O CNPJ da entidade registrada.
