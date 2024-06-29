@@ -57,5 +57,10 @@ npx expo start
 
 3. Escaneie o QR code com o aplicativo Expo Go para visualizar o projeto no seu dispositivo.
 
+# Estrutura do Projeto
+```
+ainda nao fiz
+```
+
 # Licença
 Feito com amor por Camile Stefany.
