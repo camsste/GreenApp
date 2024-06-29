@@ -56,3 +56,6 @@ npx expo start
 2. Após iniciar o projeto, um QR code será exibido no terminal ou na página web aberta pelo Expo.
 
 3. Escaneie o QR code com o aplicativo Expo Go para visualizar o projeto no seu dispositivo.
+
+# Licença
+Feito com amor por Camile Stefany.
